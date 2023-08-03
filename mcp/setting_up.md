@@ -23,6 +23,9 @@ As said above, RetroMCP-Java is one such alternative to MCP that helps to enable
 7. Click or run the `decompile` task to begin decompiling.
 8. If the `decompile` tasks fails, you can fix the issues using Eclipse/Intellij, then run `updatemd5hashes`, which updates the hashes used for reobfuscation (which enables your mod to play nicely with other mods).
 
+### Using older versions of RetroMCP-Java
+Use older releases of RetroMCP-java at your own risk. The latest release is strongly recommened as Pre Releases are known to be broken in various ways. Versions prior to v1.0 also use a totally different project structure.
+
 ### MCP-LTS (**Deprecated**)
 
 ### RetroMCP-Python (**Deprecated**)
